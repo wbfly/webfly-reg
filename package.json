@@ -1,5 +1,5 @@
 {
-  "name": "webfly-registry",
+  "name": "webfly-reg",
   "version": "0.0.1",
   "description": "The Webfly registry",
   "main": "index.js",
